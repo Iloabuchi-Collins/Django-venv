@@ -1,1 +1,1 @@
-# Django-venv
+# classic Rock Paper Scissors game
